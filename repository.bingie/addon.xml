@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.bingie" name="BINGIE Repository" provider-name="cartman.dos" version="1.0.2">
+<addon id="repository.bingie" name="BINGIE Repository" provider-name="AchillesPunks" version="1.0.5">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
 	<extension name="bingie repository" point="xbmc.addon.repository">
-		<info compressed="false">https://raw.githubusercontent.com/cartmandos/repository.bingie/master/addons.xml</info>
+		<info compressed="false">https://github.com/AchillesPunks/repository.bingie/edit/master/repository.bingie/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/cartmandos/repository.bingie/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/cartmandos/repository.bingie/master/</datadir>
 	</extension>
